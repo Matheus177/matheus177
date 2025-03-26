@@ -26,6 +26,14 @@ Me chsmo Matheus Sousa, tenho 21 anos e moro em São Gonçalo do Amarante/CE, fa
 />
 <img 
     align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
+/>
+<img 
+    align="left" 
     alt="postgresSQL" 
     title="postgresSQL"
     width="30px" 
